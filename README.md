@@ -27,7 +27,7 @@ Para continuar con nuestra investigación utilizamos las siguientes herramientas
 * Benchmark: para comparar los productos que se encuentran en el mercado y poder mejor el nuestro.
 
 ![LFP_2](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%205-%C2%BFPor-qu%C3%A9_.jpg)
-![LFP_3](hhttps://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%204-W.jpg)
+![LFP_3](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%204-W.jpg)
 
 Con esta información formulamos una hipótesis:  “El dolor más alto de nuestro usuario se encuentra en el momento cuando no hay disponibilidad de efectivo en el cajero, debido a que la logística del banco no tiene una planeación actualizada de la afluencia de usuarios en cada sucursal”. 
 
