@@ -27,15 +27,15 @@ Para continuar con nuestra investigación utilizamos las siguientes herramientas
 * Benchmark: para comparar los productos que se encuentran en el mercado y poder mejor el nuestro.
 
 ![LFP_2](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%205-%C2%BFPor-qu%C3%A9_.jpg)
-![LFP_3](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%204-W.jpg)
+![LFP_3](hhttps://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%204-W.jpg)
 
 Con esta información formulamos una hipótesis:  “El dolor más alto de nuestro usuario se encuentra en el momento cuando no hay disponibilidad de efectivo en el cajero, debido a que la logística del banco no tiene una planeación actualizada de la afluencia de usuarios en cada sucursal”. 
 
 * Entrevista: a personal del banco
 * Stalkholder Map: que nos fue posible completar con la ayuda de una entrevista que le hicimos a una administradora del banco
 
-![LFP_4](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design---Stakeholders.jpg)
-![LFP_5](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Entrevista%20Stakeholder.jpg)
+![LFP_4](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Stakeholders.jpg)
+![LFP_5](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Entrevista-Stakeholder.jpg)
 
 Se realizó una entrevista con una administradora de una sucursal del banco Banamex, estos fueron los puntos más relevantes:
 * El abastecimiento de las sucursales son independientes y dependen de la afluencia de los usuarios, que son determinadas por un departamento a los cuales llama los pronosticadores.
@@ -96,12 +96,12 @@ siguientes herramientas:
 * Definición del problema / hallazgos
 
 ![LFP_6](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Mapa%20de%20empat%C3%ADa.jpg)
-![LFP_7](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Arquetipo.jpg)
+![LFP_7](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%205-%C2%BFPor-qu%C3%A9_.jpg)
 ![LFP_8](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Entrevistas.jpg)
 ![LFP_9](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Ejes%20de%20comportamientos.jpg)
-![LFP_10](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20User%20Persona%20Estudiante.jpg)
+![LFP_10](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20User-Persona-Estudiante.jpg)
 ![LFP_11](https://github.com/Andrea0611/ServiceDesign/blob/master/ServiceDesign-UserPersona%20ok.jpg)
-![LFP_12]()
+![LFP_12](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design---Journey-Map.jpg)
 
 ## Ideación
 Una vez conociendo a todo los participantes en el proceso del “Service Design”, desde el front stage hasta el recorrido del viaje que realiza el usuario para lograr su cometido, procedimos a la ideación para generar soluciones para resolver la problemática “¿Cómo podríamos reducir el pain del usuario al no encontrar dinero en los cajeros?”  utilizando las siguientes herramientas:
@@ -112,11 +112,11 @@ Una vez conociendo a todo los participantes en el proceso del “Service Design�
 * Big Ideas / Closter
 * Matriz
 
-![LFP_13](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20How%20might%20we_.jpg)
+![LFP_13](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20How-might-we_.jpg)
 ![LFP_14](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Ideas%20_%20Crazy%208%26%2339%3Bs.jpg)
 ![LFP_15](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Big%20idea.jpg)
-![LFP_16](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Big%20ideas.jpg)
-![LFP_16.1](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Cuadrantes.jpg)
+![LFP_16](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Big-ideas.jpg)
+![LFP_16.1](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Cuadrantes.jpg)
 
 Empezamos a sugerir ideas locas a través de una herramienta llamada crazy 8s, donde pretendemos resolver el problema desde el punto de vista de otra persona o empresa, utilizando sus aportes a la sociedad, de esta manera generamos nuevas ideas. Juntamos las ideas parecidas para hacer una “Big idea”, luego descartamos las ideas que realmente eran imposibles o demasiado locas y empezamos.
  
@@ -149,7 +149,7 @@ y mapa que estaría visualizando el usuario.
 Grabamos las historias en audio y la ambientamos mediante sonido para así profundizar
 el la realidad de la historia.
 
-![LFP_17]()
+![LFP_17](https://github.com/Andrea0611/ServiceDesign/blob/master/ServiceDesign-5.jpg)
 
 ## Testing 
 Una vez que tuvimos nuestro prototipo llegó la fase de testear nuestra idea, el testeo lo realizamos con 5 usuarios a los cuales les pedimos que escucharan los audio y por medio de 8 preguntas que formulamos le pedimos al usuarios que nos comunicara su sentimiento a través de 5 caritas en donde 1 es muy molesto y 5 es muy feliz y este fue nuestro resultado
