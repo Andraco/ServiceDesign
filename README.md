@@ -34,6 +34,7 @@ Con esta información formulamos una hipótesis:  “El dolor más alto de nuest
 * Entrevista: a personal del banco
 * Stalkholder Map: que nos fue posible completar con la ayuda de una entrevista que le hicimos a una administradora del banco
 
+![LFP_4.1](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%204-W.jpg)
 ![LFP_4](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Stakeholders.jpg)
 ![LFP_5](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Entrevista-Stakeholder.jpg)
 
@@ -96,6 +97,7 @@ siguientes herramientas:
 * Definición del problema / hallazgos
 
 ![LFP_6](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Mapa%20de%20empat%C3%ADa.jpg)
+![LFP_6.1](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Arquetipo.jpg)
 ![LFP_7](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%205-%C2%BFPor-qu%C3%A9_.jpg)
 ![LFP_8](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Entrevistas.jpg)
 ![LFP_9](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design---Ejes-de-comportamientos.jpg)
@@ -127,6 +129,10 @@ Ya generada la idea sobre la cual íbamos a trabajar procedimos a refinarla por 
 * Telescoping
 * Idea Final
 * Canva propuesta de valor (frase propuesta valor)
+
+![LFP_16.3](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Idea%20refinada.jpg)
+![LFP_16.2](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Canvas-de-la-porpuesta-de-Valor.jpg)
+
 
 ## Solución
 Es importante mencionar que durante nuestra investigación del producto nosotras obtuvimos el conocimiento de que el Banco cuenta con una plataforma que tiene un mapa de ubicación de sucursales y cajeros y un sistema que te informa en tiempo real cuánto dinero tiene cada cajero. Juntamos esta tecnología y creamos una app web que mediante un mapa gps el usuario pueda visualizar en tiempo real cajeros cuentan con disposición de efectivo.
