@@ -114,7 +114,7 @@ Una vez conociendo a todo los participantes en el proceso del “Service Design�
 
 ![LFP_13](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20How-might-we_.jpg)
 ![LFP_14](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Ideas-_-Crazy-8%26%2339%3Bs.jpg)
-![LFP_15](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Big%20idea.jpg)
+![LFP_15](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Big-ideas.jpg)
 ![LFP_16.1](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Cuadrantes.jpg)
 
 Empezamos a sugerir ideas locas a través de una herramienta llamada crazy 8s, donde pretendemos resolver el problema desde el punto de vista de otra persona o empresa, utilizando sus aportes a la sociedad, de esta manera generamos nuevas ideas. Juntamos las ideas parecidas para hacer una “Big idea”, luego descartamos las ideas que realmente eran imposibles o demasiado locas y empezamos.
