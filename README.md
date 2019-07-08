@@ -98,7 +98,7 @@ siguientes herramientas:
 ![LFP_6](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Mapa%20de%20empat%C3%ADa.jpg)
 ![LFP_7](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%205-%C2%BFPor-qu%C3%A9_.jpg)
 ![LFP_8](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Entrevistas.jpg)
-![LFP_9](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Ejes%20de%20comportamientos.jpg)
+![LFP_9](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design---Ejes-de-comportamientos.jpg)
 ![LFP_10](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20User-Persona-Estudiante.jpg)
 ![LFP_11](https://github.com/Andrea0611/ServiceDesign/blob/master/ServiceDesign-UserPersona%20ok.jpg)
 ![LFP_12](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design---Journey-Map.jpg)
@@ -113,9 +113,8 @@ Una vez conociendo a todo los participantes en el proceso del “Service Design�
 * Matriz
 
 ![LFP_13](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20How-might-we_.jpg)
-![LFP_14](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Ideas%20_%20Crazy%208%26%2339%3Bs.jpg)
+![LFP_14](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Ideas-_-Crazy-8%26%2339%3Bs.jpg)
 ![LFP_15](https://github.com/Andrea0611/ServiceDesign/blob/master/Service%20Design%20-%20Big%20idea.jpg)
-![LFP_16](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Big-ideas.jpg)
 ![LFP_16.1](https://github.com/Andrea0611/ServiceDesign/blob/master/Service-Design-%20Cuadrantes.jpg)
 
 Empezamos a sugerir ideas locas a través de una herramienta llamada crazy 8s, donde pretendemos resolver el problema desde el punto de vista de otra persona o empresa, utilizando sus aportes a la sociedad, de esta manera generamos nuevas ideas. Juntamos las ideas parecidas para hacer una “Big idea”, luego descartamos las ideas que realmente eran imposibles o demasiado locas y empezamos.
